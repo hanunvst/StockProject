@@ -20,3 +20,11 @@ Features:
   - An option to export the historical data of the selected stocks
   - Show Highs and Lows of individual stocks
   - A graph that can show aggregated condition for the overall market
+
+# How to Run this application
+
+- install nodejs 
+- install react script 
+- clone / download  this project
+- install dependencies (npm install) 
+- run the project (npm start) 
